@@ -6,7 +6,9 @@ Plays in any browser on a phone, tablet, or computer. No install, no login. Prog
 
 ## Play
 
-Turn on GitHub Pages for this repo (Settings → Pages → Deploy from branch → `main` / root). The game will be at:
+Play it at **https://wkotlewski.github.io/star-knight-league/**
+
+To host your own copy, turn on GitHub Pages (Settings → Pages → Deploy from branch → `main` / root). It will be at:
 
 `https://wkotlewski.github.io/<repo-name>/`
 
