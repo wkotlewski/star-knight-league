@@ -16,7 +16,18 @@ On a phone or tablet, use **Add to Home Screen** so it opens like an app. After 
 
 - **Create your Star Knight**: six diverse looks, your own name, and a blade color.
 - **Hangar**: pick a ship frame (Swift Scout, Heavy Hauler, Star Cruiser), a cargo bay (Rescue Pod, Science Lab, Repair Drones, Sports Gear), paint, a droid buddy, and two crew members. Paint colors and droid heads unlock with credits.
-- **Asteroid Baseball**: three innings. Tap **Swing** when the ball reaches the glowing ring. About every other pitch is a **Power Pitch**: solve the problem to charge the blade bat for bigger hits. On defense, a **Diving Catch** problem can save a run.
+- **The Station Cup**: a ladder of five teams (Armor Troopers, Moon Miners, Comet Crew, Nebula Nine, and the Eclipse Elite). Beat a team to unlock the next one.
+- **Each match is one round each way**:
+  - **Bat**: tap **Swing** when the ball reaches the glowing ring. When she's on base, she may get a chance to steal.
+  - **Then she chooses Pitch or Catch** for the other team's turn.
+    - **Pitch**: pick a Fastball, Curveball, or Changeup, then tap **Throw** when the marker is in the green.
+    - **Catch**: move the glove Left, Middle, or Right to where the ball is going. Throw out runners who try to steal.
+  - A tie plays one more round.
+- **Math pops up at least once each turn** (batting, pitching, or catching), plus a few extra times depending on the grown-ups setting:
+  - **Power Pitch** charges the blade bat.
+  - **Steal the base** gets her runner in safe.
+  - **Star Pitch** or **Call the pitch** throws a pitch that's very hard to hit.
+  - **Steal alert** throws out a runner.
 
 ## Learning
 
@@ -39,7 +50,7 @@ The game adapts: skills she misses show up more often, and missed problems come 
 Press and hold the **Grown-ups** button on the title screen for 1.5 seconds to open it. It shows accuracy by skill and recently missed problems, and lets you:
 
 - set the level (Easier, 3rd grade, Challenge)
-- set how often math pops up
+- set how often math pops up (once per turn, once plus a few, or lots)
 - turn skills on or off
 - paste this week's spelling and vocabulary list (used by Hover-Soccer in Chapter 2)
 - reset progress
