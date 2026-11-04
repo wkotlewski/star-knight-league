@@ -80,6 +80,21 @@ Pick a chapter from the title screen. **Play** continues the last chapter she pl
   - **Loose ball!** grabs the ball right away.
 - **About 90 questions** aligned to California grade 3 language standards (L.3.1, L.3.4, L.3.5): word meanings, context clues, synonyms, antonyms, prefixes and suffixes (re-, un-, pre-, mis-, dis-, -less, -ful, -er, -ly), homophones (their/there/they're, to/two/too and more), parts of speech, irregular past-tense verbs, and comparing with -er/-est. Wrong answers explain the rule, missed questions come back later, and weaker skills come up more often.
 
+### Chapter 4: Eclipse Ambush (space battle · mixed review)
+
+- **Five missions** against each team's fleet. The last one is the Eclipse Commander's flagship, with a big shield bar.
+- She flies **her own Hangar ship** and taps **Left**, **Middle**, or **Right** to get out of the red warning lanes. Her ship fires on its own.
+- **Three waves per mission.** Between waves she picks **Shields** (+1 heart) or **Blasters** (fire faster).
+- **Mixed review**: at least one question each wave, randomly math, spelling, or vocabulary. A right answer charges the **Mega Laser**, which hits every ship when she taps **Mega**. When she takes a hit, a surprise question can repair a shield.
+
+### Chapter 5: The Missing Droid (rescue run · reading)
+
+- Little Cadet's droid is missing. **Five places** on its trail: Glow Caves, Lava Moon, Ice Rings, Comet Trail, and the Eclipse Base, where she finds the droid helping fix an engine.
+- **Jetpack run**: tap **Up**, **Middle**, or **Down** to dodge rocks, crystals, and meteors and grab gears. There are three hearts and three legs per mission.
+- **Between legs** she picks the **Cave tunnel** (more gears, more rocks) or the **Sky bridge** (calmer).
+- **Reading**: every leg starts with a short passage, a clue on the droid's trail. A right answer turns on the tractor beam, which pulls in gears. A surprise "Rock slide!" passage can give a shield bubble.
+- **24 original passages, 48 questions** aligned to California grade 3 reading standards (RL/RI 3.1–3.4): key details, main idea and lesson, order of events, characters and feelings, words in context, cause and effect, and inferences. **Read it to me** reads the passage aloud. Weaker skills come up more often, and missed questions come back.
+
 ### Prize Shop (real-life rewards)
 
 - **Trophy points** come only from wins, and tougher teams give more: Troopers 4, Miners 6, Comets 9, Nebula 12, Elite 18. The first win against a team gives double, and the first Cup win adds 20. A daily limit (default 30, adjustable) keeps the big prizes months away.
@@ -130,18 +145,11 @@ Press and hold the **Grown-ups** button on the title screen for 1.5 seconds to o
 - set the level (Easier, 3rd grade, Challenge)
 - set how often math pops up (once per turn, once plus a few, or lots)
 - turn skills on or off
-- see spelling and vocabulary accuracy and recently missed words
+- see spelling, vocabulary, and reading accuracy and recently missed questions
 - paste this week's spelling list (used by Hover-Soccer in Chapter 2)
 - manage prizes: daily trophy point limit, parent phone numbers (stored only on the device), prize names and costs, bonus points, and which prizes have been given
-- reset one game (teams, story, and learning history for Baseball, Soccer, or Basketball; keeps her Star Knight, ship, and credits)
+- reset one game (levels, story, and learning history for Baseball, Soccer, Basketball, Space Battle, or Rescue; keeps her Star Knight, ship, and credits)
 - reset everything
-
-## Coming next
-
-| Chapter | Sport / mission | Learning |
-| --- | --- | --- |
-| 4. Eclipse Ambush | Ship battle | mixed review |
-| 5. The Missing Droid | Rescue mission | reading comprehension |
 
 ## Files
 
