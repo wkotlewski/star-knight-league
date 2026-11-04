@@ -51,6 +51,22 @@ Pick a chapter from the title screen. **Play** continues the last chapter she pl
   - **Slide tackle** makes her tackle reach wider.
 - **Spelling words** come from the weekly list in the Grown-ups corner when there is one, otherwise from a built-in bank of about 90 grade-3 words. The bank covers vowel teams, r-controlled vowels, silent letters, -ed/-ing, plurals, compound words, prefixes and suffixes, and homophones. Each word comes with a sentence. **Hear it** reads the word aloud, and **Peek** flashes it for two seconds. She taps letter tiles (with a few decoys) or picks the right spelling from four choices. Missed words come back later.
 
+### Chapter 3: The Lost Signal (Zero-G Basketball · vocabulary)
+
+- **The Hoops League**: the same five teams on a floating court with a drifting hoop. The station's radio dish lost its signal, and every win earns a decoder chip.
+- **Each match is three turns each way**:
+  - **Shoot**: pick a 2-pointer (close, bigger green zone) or a 3-pointer (far, smaller), then tap **Shoot** when the marker is in the green.
+  - **Then she chooses Block or Steal** for the other team's three turns.
+    - **Block**: tap Block right when the ball leaves their hands. Tougher teams use pump fakes.
+    - **Steal**: tap Steal when the dribble hits the glowing ring on the floor.
+  - A tie goes to overtime.
+- **A word question pops up at least once each half**, plus surprises:
+  - **Laser Shot** makes the green zone bigger.
+  - **Double-team!** passes to an open teammate for a layup.
+  - **Super Block** and **Quick Hands** give her more time.
+  - **Loose ball!** grabs the ball right away.
+- **About 90 questions** aligned to California grade 3 language standards (L.3.1, L.3.4, L.3.5): word meanings, context clues, synonyms, antonyms, prefixes and suffixes (re-, un-, pre-, mis-, dis-, -less, -ful, -er, -ly), homophones (their/there/they're, to/two/too and more), parts of speech, irregular past-tense verbs, and comparing with -er/-est. Wrong answers explain the rule, missed questions come back later, and weaker skills come up more often.
+
 ### Unlocking
 
 - **Teams** unlock by winning: beat a team to open the next one. Locked teams say which team to beat.
@@ -79,15 +95,15 @@ Press and hold the **Grown-ups** button on the title screen for 1.5 seconds to o
 - set the level (Easier, 3rd grade, Challenge)
 - set how often math pops up (once per turn, once plus a few, or lots)
 - turn skills on or off
-- see spelling accuracy and recently missed words
+- see spelling and vocabulary accuracy and recently missed words
 - paste this week's spelling list (used by Hover-Soccer in Chapter 2)
-- reset progress
+- reset one game (teams, story, and learning history for Baseball, Soccer, or Basketball; keeps her Star Knight, ship, and credits)
+- reset everything
 
 ## Coming next
 
 | Chapter | Sport / mission | Learning |
 | --- | --- | --- |
-| 3. The Lost Signal | Zero-G Basketball | vocabulary and language arts |
 | 4. Eclipse Ambush | Ship battle | mixed review |
 | 5. The Missing Droid | Rescue mission | reading comprehension |
 
