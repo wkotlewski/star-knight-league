@@ -55,8 +55,9 @@ Pick a chapter from the title screen. **Play** continues the last chapter she pl
 
 - **The Hoops League**: the same five teams on a floating court with a drifting hoop. The station's radio dish lost its signal, and every win earns a decoder chip.
 - **Each match is three turns each way**:
-  - **Shoot**: pick a 2-pointer (close, bigger green zone) or a 3-pointer (far, smaller), then tap **Shoot** when the marker is in the green.
+  - **Shoot**: tap **3 pts**, **2 pts**, or **Close** to move between three spots while a defender shifts to guard her (a red arrow warns before it moves). Shoot from an open spot for a big green zone; a guarded shot gets a smaller one. A shot clock keeps it moving. Then tap **Shoot** again when the marker is in the green.
   - **Then she chooses Block or Steal** for the other team's three turns.
+    - Their player moves between the same three spots. She taps **Left**, **Middle**, or **Right** to stay in front of them. If she's out of position, they get an open shot.
     - **Block**: tap Block right when the ball leaves their hands. Tougher teams use pump fakes.
     - **Steal**: tap Steal when the dribble hits the glowing ring on the floor.
   - A tie goes to overtime.
