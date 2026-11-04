@@ -14,7 +14,11 @@ To host your own copy, turn on GitHub Pages (Settings → Pages → Deploy from 
 
 On a phone or tablet, use **Add to Home Screen** so it opens like an app. After the first load it also works offline.
 
-## What's in Chapter 1: The Station Cup
+## Chapters
+
+Pick a chapter from the title screen. **Play** continues the last chapter she played.
+
+### Chapter 1: The Station Cup (Asteroid Baseball · math)
 
 - **Create your Star Knight**: six diverse looks, your own name, and a blade color.
 - **Hangar**: pick a ship frame (Swift Scout, Heavy Hauler, Star Cruiser), a cargo bay (Rescue Pod, Science Lab, Repair Drones, Sports Gear), paint, a droid buddy, and two crew members. Paint colors and droid heads unlock with credits.
@@ -30,6 +34,27 @@ On a phone or tablet, use **Add to Home Screen** so it opens like an app. After 
   - **Steal the base** gets her runner in safe.
   - **Star Pitch** or **Call the pitch** throws a pitch that's very hard to hit.
   - **Steal alert** throws out a runner.
+
+### Chapter 2: Meteor Storm (Hover-Soccer · spelling)
+
+- **The Hover Cup**: the same five teams, on an ice-moon soccer field. A meteor storm knocked out the station's shields, and every win earns a shield crystal.
+- **Each match is three turns each way**:
+  - **Attack**: tap Left, Middle, or Right to dodge defenders. A red arrow warns when a defender is about to move. At the top, tap **Shoot** when the aim arrow points at a corner.
+  - **Then she chooses Goalie or Defender** for the other team's three turns.
+    - **Goalie**: watch which way the kicker leans, then dive Left, Middle, or Right.
+    - **Defender**: stay in front of the striker to tackle the ball.
+  - A tie goes to a penalty shootout.
+- **A spelling word pops up at least once each half**, plus extras depending on the grown-ups setting:
+  - **Defender closing in!** gives hover boots that jump the next tackle.
+  - **Meteor Kick** makes the goalie much slower.
+  - **Super Save** shows where their shot is going.
+  - **Slide tackle** makes her tackle reach wider.
+- **Spelling words** come from the weekly list in the Grown-ups corner when there is one, otherwise from a built-in bank of about 90 grade-3 words. The bank covers vowel teams, r-controlled vowels, silent letters, -ed/-ing, plurals, compound words, prefixes and suffixes, and homophones. Each word comes with a sentence. **Hear it** reads the word aloud, and **Peek** flashes it for two seconds. She taps letter tiles (with a few decoys) or picks the right spelling from four choices. Missed words come back later.
+
+### Unlocking
+
+- **Teams** unlock by winning: beat a team to open the next one. Locked teams say which team to beat.
+- **Hangar items** (paint colors, droid heads) cost credits (★). Each locked item shows how many more ★ she needs.
 
 ## Learning
 
@@ -54,14 +79,14 @@ Press and hold the **Grown-ups** button on the title screen for 1.5 seconds to o
 - set the level (Easier, 3rd grade, Challenge)
 - set how often math pops up (once per turn, once plus a few, or lots)
 - turn skills on or off
-- paste this week's spelling and vocabulary list (used by Hover-Soccer in Chapter 2)
+- see spelling accuracy and recently missed words
+- paste this week's spelling list (used by Hover-Soccer in Chapter 2)
 - reset progress
 
 ## Coming next
 
 | Chapter | Sport / mission | Learning |
 | --- | --- | --- |
-| 2. Meteor Storm | Hover-Soccer | spelling (from the weekly list) |
 | 3. The Lost Signal | Zero-G Basketball | vocabulary and language arts |
 | 4. Eclipse Ambush | Ship battle | mixed review |
 | 5. The Missing Droid | Rescue mission | reading comprehension |
