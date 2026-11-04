@@ -68,6 +68,28 @@ Pick a chapter from the title screen. **Play** continues the last chapter she pl
   - **Loose ball!** grabs the ball right away.
 - **About 90 questions** aligned to California grade 3 language standards (L.3.1, L.3.4, L.3.5): word meanings, context clues, synonyms, antonyms, prefixes and suffixes (re-, un-, pre-, mis-, dis-, -less, -ful, -er, -ly), homophones (their/there/they're, to/two/too and more), parts of speech, irregular past-tense verbs, and comparing with -er/-est. Wrong answers explain the rule, missed questions come back later, and weaker skills come up more often.
 
+### Prize Shop (real-life rewards)
+
+- **Trophy points** come only from wins, and tougher teams give more: Troopers 4, Miners 6, Comets 9, Nebula 12, Elite 18. The first win against a team gives double, and the first Cup win adds 20. A daily limit (default 30, adjustable) keeps the big prizes months away.
+- **Prizes**, cheapest first. Parents can edit, add, or remove prizes.
+
+  | Prize | Points |
+  | --- | --- |
+  | Chocolate candy | 40 |
+  | Get out of folding clothes pass | 60 |
+  | 30 minutes of video games | 80 |
+  | Mac and cheese dinner | 100 |
+  | Milkshake | 140 |
+  | 1 hour of video games | 160 |
+  | Movie night | 220 |
+  | McDonald's with a Sprite | 260 |
+  | Playtime with a favorite friend | 320 |
+  | Play City | 500 |
+  | Bullwinkle's | 700 |
+
+- **Certificates**: getting a prize spends the points and makes a trophy certificate she shows her parents. Past certificates stay under **My trophies**.
+- **Send to my parents**: she picks a parent and types that phone number from memory on a number pad. It has to match the number saved in the Grown-ups corner. After two misses, green and red digits show which numbers are right. After three, she can peek for 3 seconds. Then the share sheet sends the certificate picture. If a phone can't share pictures, she can open Messages and save the picture instead.
+
 ### Unlocking
 
 - **Teams** unlock by winning: beat a team to open the next one. Locked teams say which team to beat.
@@ -98,6 +120,7 @@ Press and hold the **Grown-ups** button on the title screen for 1.5 seconds to o
 - turn skills on or off
 - see spelling and vocabulary accuracy and recently missed words
 - paste this week's spelling list (used by Hover-Soccer in Chapter 2)
+- manage prizes: daily trophy point limit, parent phone numbers (stored only on the device), prize names and costs, bonus points, and which prizes have been given
 - reset one game (teams, story, and learning history for Baseball, Soccer, or Basketball; keeps her Star Knight, ship, and credits)
 - reset everything
 
