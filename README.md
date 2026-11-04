@@ -21,7 +21,19 @@ Pick a chapter from the title screen. **Play** continues the last chapter she pl
 ### Chapter 1: The Station Cup (Asteroid Baseball · math)
 
 - **Create your Star Knight**: six diverse looks, your own name, and a blade color.
-- **Hangar**: pick a ship frame (Swift Scout, Heavy Hauler, Star Cruiser), a cargo bay (Rescue Pod, Science Lab, Repair Drones, Sports Gear), paint, a droid buddy, and two crew members. Paint colors and droid heads unlock with credits.
+- **Hangar**: the ship frame and cargo bay give powers in every game. Paint, droid, and crew are for style. Paint colors and droid heads unlock with credits.
+
+  | Choice | Power |
+  | --- | --- |
+  | Swift Scout | Warning arrows stay longer, pitches come a little slower, and the basketball shot clock gets 2 more seconds |
+  | Heavy Hauler | A shield blocks one mistake each match (strike three, an opponent's hit, a tackle, their goal or basket, or her missed shot) |
+  | Star Cruiser | +5 credits after every match |
+  | Science Lab | A Hint button on questions removes a wrong choice, fills the first digit, or places the next letter |
+  | Rescue Pod | One free retry on a missed question each match |
+  | Repair Drones | Bigger green zones for swinging, pitching, and shooting, and a weaker goalie |
+  | Sports Gear | Power-ups earned from questions last one extra play |
+
+  The match screen for each Cup shows her current ship powers, with a shortcut to the Hangar.
 - **The Station Cup**: a ladder of five teams (Armor Troopers, Moon Miners, Comet Crew, Nebula Nine, and the Eclipse Elite). Beat a team to unlock the next one.
 - **Each match is one round each way**:
   - **Bat**: tap **Swing** when the ball reaches the glowing ring. When she's on base, she may get a chance to steal.
