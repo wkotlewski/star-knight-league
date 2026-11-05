@@ -40,6 +40,7 @@ Pick a chapter from the title screen. **Play** continues the last chapter she pl
   - **Then she chooses Pitch or Catch** for the other team's turn.
     - **Pitch**: pick a Fastball, Curveball, or Changeup, then tap **Throw** when the marker is in the green.
     - **Catch**: move the glove Left, Middle, or Right to where the ball is going. Throw out runners who try to steal.
+    - **Fielding (both roles)**: when they get a hit, her teammate fields it and she taps **1st**, **2nd**, **3rd**, or **Home** to throw to the base a runner is heading to before the timer runs out. Bases with runners heading to them are circled.
   - A tie plays one more round.
 - **Math pops up at least once each turn** (batting, pitching, or catching), plus a few extra times depending on the grown-ups setting:
   - **Power Pitch** charges the blade bat.
@@ -51,10 +52,10 @@ Pick a chapter from the title screen. **Play** continues the last chapter she pl
 
 - **The Hover Cup**: the same five teams, on an ice-moon soccer field. A meteor storm knocked out the station's shields, and every win earns a shield crystal.
 - **Each match is three turns each way**:
-  - **Attack**: tap Left, Middle, or Right to dodge defenders. A red arrow warns when a defender is about to move. At the top, tap **Shoot** when the aim arrow points at a corner.
+  - **Attack**: tap Left, Middle, or Right to dodge defenders. A red arrow warns when a defender is about to move. Two teammates run alongside her, and **Pass** sends the ball to the most open one (a nearby defender can intercept). At the top, tap **Shoot** when the aim arrow points at a corner.
   - **Then she chooses Goalie or Defender** for the other team's three turns.
     - **Goalie**: watch which way the kicker leans, then dive Left, Middle, or Right.
-    - **Defender**: stay in front of the striker to tackle the ball.
+    - **Defender**: stay in front of the striker to tackle the ball. Their attackers pass to each other too, so watch the warning arrows.
   - A tie goes to a penalty shootout.
 - **A spelling word pops up at least once each half**, plus extras depending on the grown-ups setting:
   - **Defender closing in!** gives hover boots that jump the next tackle.
@@ -65,20 +66,12 @@ Pick a chapter from the title screen. **Play** continues the last chapter she pl
 
 ### Chapter 3: The Lost Signal (Zero-G Basketball · vocabulary)
 
-- **The Hoops League**: the same five teams on a floating court with a drifting hoop. The station's radio dish lost its signal, and every win earns a decoder chip.
-- **Each match is three turns each way**:
-  - **Shoot**: tap **3 pts**, **2 pts**, or **Close** to move between three spots while a defender shifts to guard her (a red arrow warns before it moves). Shoot from an open spot for a big green zone; a guarded shot gets a smaller one. A shot clock keeps it moving. Then tap **Shoot** again when the marker is in the green.
-  - **Then she chooses Block or Steal** for the other team's three turns.
-    - Their player moves between the same three spots. She taps **Left**, **Middle**, or **Right** to stay in front of them. If she's out of position, they get an open shot.
-    - **Block**: tap Block right when the ball leaves their hands. Tougher teams use pump fakes.
-    - **Steal**: tap Steal when the dribble hits the glowing ring on the floor.
-  - A tie goes to overtime.
-- **A word question pops up at least once each half**, plus surprises:
-  - **Laser Shot** makes the green zone bigger.
-  - **Double-team!** passes to an open teammate for a layup.
-  - **Super Block** and **Quick Hands** give her more time.
-  - **Loose ball!** grabs the ball right away.
-- **About 90 questions** aligned to California grade 3 language standards (L.3.1, L.3.4, L.3.5): word meanings, context clues, synonyms, antonyms, prefixes and suffixes (re-, un-, pre-, mis-, dis-, -less, -ful, -er, -ly), homophones (their/there/they're, to/two/too and more), parts of speech, irregular past-tense verbs, and comparing with -er/-est. Wrong answers explain the rule, missed questions come back later, and weaker skills come up more often.
+- **The Hoops League**: the same five teams, on a top-down half court like soccer. Every win earns a decoder chip to fix the station's radio dish.
+- **Offense (3 possessions)**: she controls whoever has the ball. She taps anywhere on the court to move and taps a teammate to pass. Teammates cut to new spots, and the open ones glow green. Defenders guard each player, and a defender standing in a passing lane can intercept. Then she taps **Shoot** and taps again when the marker is in the green. Shots from beyond the 3-point line are worth 3, and shots near the hoop are easiest. An open shot gets a bigger green zone than a guarded one, and the shot clock keeps it moving.
+- **Defense (3 possessions)**: she controls her own defender and taps anywhere to move. Two teammates guard the other players. The other team passes away from pressure, and if she stands in the passing lane she intercepts. When she's close to the ball handler, she can **Steal** (tap when the dribble hits the ring) or **Block** (tap when they shoot; watch for pump fakes). If she's out of position, they get an open shot.
+- A tie goes to overtime.
+- **Word questions** at least once each half, plus surprises: **Laser Shot** (bigger green zone), **Double-team!** (a safe pass to the most open teammate), **Super Defense** (more time to steal or block), and **Loose ball!**
+- **About 90 questions** aligned to California grade 3 language standards (L.3.1, L.3.4, L.3.5): word meanings, context clues, synonyms, antonyms, prefixes and suffixes, homophones, parts of speech, irregular past-tense verbs, and comparing with -er/-est.
 
 ### Chapter 4: Eclipse Ambush (space battle · mixed review)
 
@@ -147,6 +140,7 @@ Press and hold the **Grown-ups** button on the title screen for 1.5 seconds to o
 - turn skills on or off
 - see spelling, vocabulary, and reading accuracy and recently missed questions
 - paste this week's spelling list (used by Hover-Soccer in Chapter 2)
+- set what wrong answers cost: nothing, 1 ★, 2 ★ (default), or 1 trophy point. It never goes below zero, and Rescue Pod retries are free
 - manage prizes: daily trophy point limit, parent phone numbers (stored only on the device), prize names and costs, bonus points, and which prizes have been given
 - reset one game (levels, story, and learning history for Baseball, Soccer, Basketball, Space Battle, or Rescue; keeps her Star Knight, ship, and credits)
 - reset everything
