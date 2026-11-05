@@ -36,7 +36,7 @@ Pick a chapter from the title screen. **Play** continues the last chapter she pl
   The match screen for each Cup shows her current ship powers, with a shortcut to the Hangar.
 - **The Station Cup**: a ladder of five teams (Armor Troopers, Moon Miners, Comet Crew, Nebula Nine, and the Eclipse Elite). Beat a team to unlock the next one.
 - **Each match is one round each way**:
-  - **Bat**: tap **Swing** when the ball reaches the glowing ring. When she's on base, she may get a chance to steal.
+  - **Bat**: tap **Swing** when the ball reaches the glowing ring. After a hit, she runs the bases herself. At each base she decides **Run!** or **Stop** before the timer runs out, while the fielder has the ball. Running for an extra base earns more credits, and reaching home is an inside-the-park home run, but the throw can beat her. When she's on base, she may get a chance to steal.
   - **Then she chooses Pitch or Catch** for the other team's turn.
     - **Pitch**: pick a Fastball, Curveball, or Changeup, then tap **Throw** when the marker is in the green.
     - **Catch**: move the glove Left, Middle, or Right to where the ball is going. Throw out runners who try to steal.
