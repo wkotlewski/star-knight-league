@@ -2,7 +2,7 @@
 
 A space-sports learning game for a 3rd grader. Build your ship, pick your crew, and win the Station Cup against the Eclipse Commander's Armor Troopers by solving math problems along the way.
 
-Plays in any browser on a phone, tablet, or computer. No install, no login. Progress saves on each device.
+Plays in any browser on a phone, tablet, or computer. No install. Progress saves on each device.
 
 ## Play
 
@@ -13,6 +13,15 @@ To host your own copy, turn on GitHub Pages (Settings → Pages → Deploy from 
 `https://wkotlewski.github.io/<repo-name>/`
 
 On a phone or tablet, use **Add to Home Screen** so it opens like an app. After the first load it also works offline.
+
+## Players
+
+Each player signs in with a username (no password). Every username has its own points, trophy points, prizes, and progress, so someone else playing on the same device can't change hers.
+
+- Usernames ignore capital letters and extra spaces ("Amaya" and "amaya" are the same player).
+- Tap the name in the top bar to switch players. A device remembers the signed-in player until the browser tab is closed.
+- **Updating from an older version:** the game saved before usernames existed goes to the first username made on that device. The old save also stays as a backup.
+- Saves live in that browser on that device. Clearing the browser's site data erases them, and they don't move between devices.
 
 ## Chapters
 
@@ -143,7 +152,7 @@ Press and hold the **Grown-ups** button on the title screen for 1.5 seconds to o
 - set what wrong answers cost: nothing, 1 ★, 2 ★ (default), or 1 trophy point. It never goes below zero, and Rescue Pod retries are free
 - manage prizes: daily trophy point limit, parent phone numbers (stored only on the device), prize names and costs, bonus points, and which prizes have been given
 - reset one game (levels, story, and learning history for Baseball, Soccer, Basketball, Space Battle, or Rescue; keeps her Star Knight, ship, and credits)
-- reset everything
+- reset everything for the signed-in player (other players are not changed)
 
 ## Files
 
