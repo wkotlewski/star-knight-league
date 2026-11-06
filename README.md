@@ -19,6 +19,7 @@ On a phone or tablet, use **Add to Home Screen** so it opens like an app. After 
 Each player signs in with a username (no password). Every username has its own points, trophy points, prizes, and progress, so someone else playing on the same device can't change hers.
 
 - Usernames ignore capital letters and extra spaces ("Amaya" and "amaya" are the same player).
+- Usernames can't be taken: a new name that matches an existing player once spaces and numbers are ignored ("Amaya2", "A maya") is turned down. Typing an existing name opens that player's game; it never makes a second copy.
 - Tap the name in the top bar to switch players. A device remembers the signed-in player until the browser tab is closed.
 - **Updating from an older version:** the game saved before usernames existed goes to the first username made on that device. The old save also stays as a backup.
 - Saves live in that browser on that device. Clearing the browser's site data erases them, and they don't move between devices.
