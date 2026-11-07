@@ -16,10 +16,13 @@ On a phone or tablet, use **Add to Home Screen** so it opens like an app. After 
 
 ## Players
 
-Each player signs in with a username (no password). Every username has its own points, trophy points, prizes, and progress, so someone else playing on the same device can't change hers.
+Each player signs in with a username and a 4-number PIN. Every username has its own points, trophy points, prizes, and progress, so someone else playing on the same device can't change hers.
 
 - Usernames ignore capital letters and extra spaces ("Amaya" and "amaya" are the same player).
 - Usernames can't be taken: a new name that matches an existing player once spaces and numbers are ignored ("Amaya2", "A maya") is turned down. Typing an existing name opens that player's game; it never makes a second copy.
+- **PIN**: new players make a PIN right after picking a username, typing it twice to confirm. Players made before PINs existed set one the next time they sign in. The PIN is stored, scrambled, with that username on the device.
+- **Forgot the PIN?** A grown-up taps **Forgot PIN?** and types one of the parent phone numbers saved for that player, then she makes a new PIN. If no phone number is saved, a grown-up presses and holds **Reset PIN** for 3 seconds.
+- **Change PIN**: in the Grown-ups corner.
 - Tap the name in the top bar to switch players. A device remembers the signed-in player until the browser tab is closed.
 - **Updating from an older version:** the game saved before usernames existed goes to the first username made on that device. The old save also stays as a backup.
 - Saves live in that browser on that device. Clearing the browser's site data erases them, and they don't move between devices.
