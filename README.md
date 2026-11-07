@@ -26,6 +26,8 @@ Each player signs in with a username and a 4-number PIN. Every username has its 
 - Tap the name in the top bar to switch players. A device remembers the signed-in player until the browser tab is closed.
 - **Updating from an older version:** the game saved before usernames existed goes to the first username made on that device. The old save also stays as a backup.
 - Saves live in that browser on that device. Clearing the browser's site data erases them, and they don't move between devices.
+- **Back up and restore**: in the Grown-ups corner, **Back up and send** makes a small game file (points, trophy points, prizes, PIN, and progress) and opens the share sheet, so you can pick Mail and email it to yourself. On browsers that can't share files, it saves the file and opens a pre-filled email to attach it to. **Restore a backup** (on the sign-in screen and in the Grown-ups corner) loads that file back, on a cleared device or a new one. Restoring over an existing player shows both scores and asks before replacing.
+- On iPhone and iPad, add the game to the Home Screen and open it from there. Safari can clear saved data for websites that haven't been opened in about 7 days, and Home Screen apps are exempt.
 
 ## Chapters
 
