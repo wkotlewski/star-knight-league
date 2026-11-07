@@ -118,7 +118,12 @@ Pick a chapter from the title screen. **Play** continues the last chapter she pl
   | Bullwinkle's | 700 |
 
 - **Certificates**: getting a prize spends the points and makes a trophy certificate she shows her parents. Past certificates stay under **My trophies**.
-- **Send to my parents**: she picks a parent and types that phone number from memory on a number pad. It has to match the number saved in the Grown-ups corner. After two misses, green and red digits show which numbers are right. After three, she can peek for 3 seconds. Then the share sheet sends the certificate picture. If a phone can't share pictures, she can open Messages and save the picture instead.
+- **Send to my parents**:
+  - If no parent numbers are saved yet, the game asks for them right there (a grown-up can help). They're also editable in the Grown-ups corner and stay only on the device.
+  - She picks **Mom**, **Dad**, or **Both**.
+  - First she **learns the number**: it shows big on screen and is read aloud. When she taps **I know it. Hide it!**, she types it from memory on a number pad. With Both, she learns and types each number in turn.
+  - Misses help her learn: after two, green and red digits show which numbers are right. After three, she can peek for 3 seconds.
+  - Then the share sheet sends the certificate picture. If a phone can't share pictures, there's a **Message** button for each parent and a **Save the picture** button.
 
 ### Unlocking
 
@@ -152,6 +157,7 @@ Press and hold the **Grown-ups** button on the title screen for 1.5 seconds to o
 - paste this week's spelling list (used by Hover-Soccer in Chapter 2)
 - set what wrong answers cost: nothing, 1 ★, 2 ★ (default), or 1 trophy point. It never goes below zero, and Rescue Pod retries are free
 - manage prizes: daily trophy point limit, parent phone numbers (stored only on the device), prize names and costs, bonus points, and which prizes have been given
+- the Prize Shop shows how many points she has already spent on prizes, since getting a prize uses its points
 - reset one game (levels, story, and learning history for Baseball, Soccer, Basketball, Space Battle, or Rescue; keeps her Star Knight, ship, and credits)
 - reset everything for the signed-in player (other players are not changed)
 
