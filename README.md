@@ -29,6 +29,10 @@ Each player signs in with a username and a 4-number PIN. Every username has its 
 - **Back up and restore**: in the Grown-ups corner, **Back up and send** makes a small game file (points, trophy points, prizes, PIN, and progress) and opens the share sheet, so you can pick Mail and email it to yourself. On browsers that can't share files, it saves the file and opens a pre-filled email to attach it to. **Restore a backup** (on the sign-in screen and in the Grown-ups corner) loads that file back, on a cleared device or a new one. Restoring over an existing player shows both scores and asks before replacing.
 - On iPhone and iPad, add the game to the Home Screen and open it from there. Safari can clear saved data for websites that haven't been opened in about 7 days, and Home Screen apps are exempt.
 
+## Mixed subjects
+
+Every chapter mixes **math, spelling, word meanings, and reading**, so she practices all four whichever game she likes best. About a third of the questions come from that chapter's own subject. The rest lean toward the subjects she gets wrong most or has practiced least. Within each subject, the question types she misses come up more often. Question titles stay with the game (for example, "Power Pitch! Spell it right to charge your blade bat."). Grown-ups can switch back to **each game's own subject**.
+
 ## Chapters
 
 Pick a chapter from the title screen. **Play** continues the last chapter she played.
@@ -155,6 +159,8 @@ The game adapts: skills she misses show up more often, and missed problems come 
 
 Press and hold the **Grown-ups** button on the title screen for 1.5 seconds to open it. It shows accuracy by skill and recently missed problems, and lets you:
 
+- **Learning tracker**: percent right in each subject with a 2-week trend, the question types she's doing great at and the ones that need practice, types she hasn't tried yet, and a suggestion for her weakest or least-practiced subject. **Practice more (subject) in every game** makes about half of all questions that subject until you tap **Stop focusing**.
+- choose whether games mix subjects (default) or ask only their own subject
 - set the level (Easier, 3rd grade, Challenge)
 - set how often math pops up (once per turn, once plus a few, or lots)
 - turn skills on or off
