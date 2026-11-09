@@ -88,6 +88,7 @@ Pick a chapter from the title screen. **Play** continues the last chapter she pl
 - **The Hoops League**: the same five teams, on a top-down half court like soccer. Every win earns a decoder chip to fix the station's radio dish.
 - **Offense (3 possessions)**: she controls whoever has the ball. She taps anywhere on the court to move and taps a teammate to pass. Teammates cut to new spots, and the open ones glow green. Defenders guard each player, and a defender standing in a passing lane can intercept. Then she taps **Shoot** and taps again when the marker is in the green. Shots from beyond the 3-point line are worth 3, and shots near the hoop are easiest. An open shot gets a bigger green zone than a guarded one, and the shot clock keeps it moving.
 - **Defense (3 possessions)**: she controls her own defender and taps anywhere to move. Two teammates guard the other players. The other team passes away from pressure, and if she stands in the passing lane she intercepts. When she's close to the ball handler, she can **Steal** (tap when the dribble hits the ring) or **Block** (tap when they shoot; watch for pump fakes). If she's out of position, they get an open shot.
+- **Coaching**: the first three matches open with a How to play card, and pulsing "Tap to run here", "Tap to pass", and "Tap to guard" hints stay on the court until she taps.
 - A tie goes to overtime.
 - **Word questions** at least once each half, plus surprises: **Laser Shot** (bigger green zone), **Double-team!** (a safe pass to the most open teammate), **Super Defense** (more time to steal or block), and **Loose ball!**
 - **About 90 questions** aligned to California grade 3 language standards (L.3.1, L.3.4, L.3.5): word meanings, context clues, synonyms, antonyms, prefixes and suffixes, homophones, parts of speech, irregular past-tense verbs, and comparing with -er/-est.
@@ -157,7 +158,7 @@ The game adapts: skills she misses show up more often, and missed problems come 
 
 ## Grown-ups corner
 
-Press and hold the **Grown-ups** button on the title screen for 1.5 seconds to open it. It shows accuracy by skill and recently missed problems, and lets you:
+Press and hold the **Grown-ups** button on the title screen for 1.5 seconds to open it. The top shows the game version, so you can check a device has the latest update. It shows accuracy by skill and recently missed problems, and lets you:
 
 - **Learning tracker**: percent right in each subject with a 2-week trend, the question types she's doing great at and the ones that need practice, types she hasn't tried yet, and a suggestion for her weakest or least-practiced subject. **Practice more (subject) in every game** makes about half of all questions that subject until you tap **Stop focusing**.
 - choose whether games mix subjects (default) or ask only their own subject
